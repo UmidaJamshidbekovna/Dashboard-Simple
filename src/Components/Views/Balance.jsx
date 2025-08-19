@@ -1,15 +1,14 @@
-// Balance.jsx
+
 import React from "react";
 import { Card, Row, Col, Button, ProgressBar } from "react-bootstrap";
 
 const Balance = () => {
-  const balance = 12000; // Баланс в суммах
+  const balance = 12000; 
   const tariff = {
     name: "Премиум",
     price: "99 000 сум / мес",
-    used: 70, // % использованных возможностей тарифа
+    used: 70, 
   };
-
   return (
     <div className="mt-4">
       <h4 className="mb-4">Баланс / Мой тариф</h4>
