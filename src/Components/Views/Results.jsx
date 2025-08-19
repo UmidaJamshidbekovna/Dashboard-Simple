@@ -1,4 +1,4 @@
-// Results.jsx
+
 import React from "react";
 import { Card, Row, Col, Badge } from "react-bootstrap";
 
