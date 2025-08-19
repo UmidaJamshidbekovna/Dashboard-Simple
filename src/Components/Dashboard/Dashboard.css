@@ -1,0 +1,21 @@
+.col-4{
+    margin: 0;
+    height: 85vh;
+    padding: 0;
+    background-color: #f9fbfc;
+}
+.dashboard{ 
+    margin: auto;
+    width: 1000px;
+    height: 85vh;
+}
+.menu-item {
+  color: #6c757d; /* Bootstrap text-secondary */
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+.menu-item:hover {
+  background-color: #0d6efd; /* Bootstrap primary blue */
+  color: white;
+}
