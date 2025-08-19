@@ -16,7 +16,7 @@ const UserProfile = () => {
   return (
     <div className="container mt-4">
     
-      <h2 className="mb-3">Имя пользователя</h2>
+      <h2 className="mb-3"> Добро пожаловать, Джон!</h2>
       <h4 className="mb-3">Прогресс</h4>
       <Card className="mb-4 shadow-sm">
         <Card.Body>
