@@ -1,4 +1,4 @@
-// Achievements.jsx
+
 import React from "react";
 import { Card, Row, Col, Badge, ProgressBar } from "react-bootstrap";
 
